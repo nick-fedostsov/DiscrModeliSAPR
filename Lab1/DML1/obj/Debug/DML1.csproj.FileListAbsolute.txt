@@ -4,12 +4,12 @@ c:\users\piranit\documents\visual studio 2015\Projects\DML1\DML1\bin\Debug\DML1.
 c:\users\piranit\documents\visual studio 2015\Projects\DML1\DML1\obj\Debug\DML1.csprojResolveAssemblyReference.cache
 c:\users\piranit\documents\visual studio 2015\Projects\DML1\DML1\obj\Debug\DML1.exe
 c:\users\piranit\documents\visual studio 2015\Projects\DML1\DML1\obj\Debug\DML1.pdb
-C:\Users\Діма\Desktop\навчання 7 семестр\Кривий\DML1\DML1\bin\Debug\DML1.exe.config
-C:\Users\Діма\Desktop\навчання 7 семестр\Кривий\DML1\DML1\obj\Debug\DML1.exe
-C:\Users\Діма\Desktop\навчання 7 семестр\Кривий\DML1\DML1\obj\Debug\DML1.pdb
-C:\Users\Діма\Desktop\навчання 7 семестр\Кривий\DML1\DML1\bin\Debug\DML1.exe
-C:\Users\Діма\Desktop\навчання 7 семестр\Кривий\DML1\DML1\bin\Debug\DML1.pdb
-C:\Users\Діма\Desktop\навчання 7 семестр\Кривий\DML1\DML1\obj\Debug\DML1.csprojResolveAssemblyReference.cache
+C:\Users\Микола\Desktop\навчання 7 семестр\Кривий\DML1\DML1\bin\Debug\DML1.exe.config
+C:\Users\Микола\Desktop\навчання 7 семестр\Кривий\DML1\DML1\obj\Debug\DML1.exe
+C:\Users\Микола\Desktop\навчання 7 семестр\Кривий\DML1\DML1\obj\Debug\DML1.pdb
+C:\Users\Микола\Desktop\навчання 7 семестр\Кривий\DML1\DML1\bin\Debug\DML1.exe
+C:\Users\Микола\Desktop\навчання 7 семестр\Кривий\DML1\DML1\bin\Debug\DML1.pdb
+C:\Users\Микола\Desktop\навчання 7 семестр\Кривий\DML1\DML1\obj\Debug\DML1.csprojResolveAssemblyReference.cache
 D:\Student\семестир 7\Дискретні моделі в САПР - Каркульовський\DML1\DML1\bin\Debug\DML1.exe.config
 D:\Student\семестир 7\Дискретні моделі в САПР - Каркульовський\DML1\DML1\obj\Debug\DML1.exe
 D:\Student\семестир 7\Дискретні моделі в САПР - Каркульовський\DML1\DML1\obj\Debug\DML1.pdb
